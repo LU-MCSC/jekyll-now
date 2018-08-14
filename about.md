@@ -12,8 +12,12 @@ Laurentian University, FA-370
 
 ### Current Executive
 
-President: **Luke Allen**  
-Vice President: **Darius Garneau**  
-Treasurer: **Henri-Philippe Marceau**  
-Content Manager: **Emily Lalonde**  
-Web and Systems Administrator: **Patrick Trottier**  
+#### > President - Luke Allen
+
+#### > Vice President - Darius Garneau
+
+#### > Treasurer - Henri-Philippe Marceau
+
+#### > Content Manager - Emily Lalonde 
+
+#### > Web and Systems Administrator - Patrick Trottier
