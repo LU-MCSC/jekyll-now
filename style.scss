@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: $white;
+  background: #fff;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -273,12 +273,12 @@ nav {
 }
 
 .pages {
-	margin-bottom: 100px;
+  margin-bottom: 100px;
 }
 
 #to-archives {
-	font-style: italic;
-	text-align: center;
+  font-style: italic;
+  text-align: center;
 }
 
 .wrapper-footer {
@@ -299,6 +299,89 @@ nav {
 footer {
   padding: 15px 0;
   text-align: center;
+}
+
+/* Dark Mode */
+
+#label-theme {
+  display: inline-block;
+  position: relative;
+  margin-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-bottom: solid #999 1px;
+}
+
+#checkbox-theme {
+  visibility: hidden;
+}
+
+#checkbox-theme:checked ~ label {
+  color: #959595;
+}
+
+#checkbox-theme:checked ~ .main li {
+  color: #999;
+}
+
+#checkbox-theme:checked ~ .wrapper-footer {
+  filter: brightness(50%);
+}
+
+#checkbox-theme:checked ~ .main .site-avatar img {
+  filter: brightness(50%);
+}
+
+#checkbox-theme:checked ~ .main * h1 {
+  color: #999;
+}
+
+#checkbox-theme:checked ~ .main * h2 {
+  color: #999;
+}
+
+#checkbox-theme:checked ~ .main * h3 {
+  color: #999;
+}
+
+#checkbox-theme:checked ~ .main * h4 {
+  color: #999;
+}
+
+#checkbox-theme:checked ~ .main * h5 {
+  color: #999;
+}
+
+#checkbox-theme:checked ~ .main * h6 {
+  color: #999;
+}
+
+#checkbox-theme:checked ~ .main .site-description {
+  color: #888;
+}
+
+#checkbox-theme:checked ~ .main nav a {
+  color: #959595;
+}
+
+#checkbox-theme:checked ~ .main p {
+  color: #959595;
+}
+
+#checkbox-theme:checked ~ .main .masthead {
+  border-bottom: 1px solid #959595;
+}
+
+.dark {
+  background-color: #000;
+}
+
+.main {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
