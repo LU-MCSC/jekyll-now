@@ -7,9 +7,9 @@ published: true
 
 This is the website for Laurentian’s Math and Computer Science Club. Here we post about news in the department, upcoming events, and any other outstanding news we seem to notice.
 
-### Current Location
+### Location
 
-Laurentian University, FA-370
+FA-370, Laurentian University
 
 ### Current Executive
 
