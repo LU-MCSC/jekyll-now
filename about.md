@@ -23,4 +23,4 @@ FA-370, Laurentian University
 
 #### > Student Representative - Spencer Daviau
 
-#### > Web and Systems Administrator - Patrick Trottier 
+#### > Systems Administrator - Patrick Trottier 
