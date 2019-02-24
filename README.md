@@ -8,5 +8,4 @@ You can add posts (YYYY-MM-DD-Title.md) to `/posts/` using `git` in the followin
 > published: true  
 > tag: 2018-2019  
 > `---`  
-> Monday, Wednesday: 11 A.M. - 2 P.M.  
-> Tuesday, Thursday: 11 A.M. - 4 P.M.
+> Markdown content
