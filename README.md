@@ -1,4 +1,4 @@
-# Laurentian University Mathematics and Computer Science Club Website
+# MCSC Website
 ## Maintenance
 Every year, update the [tag](https://github.com/LU-MCSC/lu-mcsc.github.io/blob/master/index.html#L7) to the new years to filter the posts.
 
