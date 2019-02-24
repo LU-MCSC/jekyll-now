@@ -8,7 +8,7 @@ published: true
 This is the website for Laurentian’s Math and Computer Science Club. Here we post about news in the department, upcoming events, and any other outstanding news we seem to notice.
 
 ### Hours
-Monday, Wednesday: 11 A.M. - 2 P.M.
+Monday, Wednesday: 11 A.M. - 2 P.M.  
 Tuesday, Thursday: 11 A.M. - 4 P.M
 
 ### Location
