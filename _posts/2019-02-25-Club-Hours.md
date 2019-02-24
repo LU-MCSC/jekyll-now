@@ -1,7 +1,5 @@
 ---
-published: false
-tags: 2018-2019
-tag: 2018-2019
+published: true
 ---
 ## Club Hours
 
