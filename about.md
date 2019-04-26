@@ -8,8 +8,7 @@ published: true
 This is the website for Laurentian’s Math and Computer Science Club. Here we post about news in the department, upcoming events, and any other outstanding news we seem to notice.
 
 ### Hours
-Monday, Wednesday: 11 A.M. - 2 P.M.  
-Tuesday, Thursday: 11 A.M. - 4 P.M
+To be determined in the fall.
 
 ### Location
 
@@ -17,14 +16,14 @@ FA-370, Laurentian University
 
 ### Current Executive
 
-#### > President - Luke Allen 
+#### > President - Darius Garneau
 
-#### > Vice President - Darius Garneau 
+#### > Vice President - Regan Ross
 
-#### > Content Manager - Emily Lalonde 
+#### > Content Manager - Mathieu Roy
 
-#### > Treasurer - Henri-Philippe Marceau 
+#### > Treasurer - Kendra Rehel-Buchanan
 
 #### > Student Representative - Spencer Daviau
 
-#### > Systems Administrator - Patrick Trottier 
+#### > Systems Administrator - Patrick Trottier
