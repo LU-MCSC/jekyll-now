@@ -1,7 +1,6 @@
 ---
-layout: post
-title: The Results Are In
 published: true
+tag: 2017-2018
 ---
 We would like to thank everyone who ran in the 2017-2018 MCSC Election. We would also like to thank the general members for taking the time to vote on these positions. The results are listed below.  
 

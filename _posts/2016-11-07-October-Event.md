@@ -1,7 +1,6 @@
 ---
-layout: post
-title: October Event - Undertale Genocide Run
 published: true
+tag: 2016-2017
 ---
 We are going to be doing a genocide run of Undertale on October 22nd in G26, the SSR theatre room! Join us as we mercilessly destroy the dwellers of the Underground. Entry is free, and drinks and snacks are available for purchase!
 

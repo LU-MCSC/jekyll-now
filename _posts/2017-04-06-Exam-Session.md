@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Club Room Exam Session Hours and New Titles
 published: true
+tag: 2016-2017
 ---
 During the 2016-2017 winter exam session the club room will be closed. If there executive members in the room, please feel free to join us, but there will be no guaranteed hours.  
 
