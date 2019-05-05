@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Winter Session 2018
 published: true
+tag: 2017-2018
 ---
 Hey guys!!  
 
