@@ -39,4 +39,3 @@ Sincerely,
 
 Tobias Mankis
 [Online Science Video Study](https://docs.google.com/forms/d/e/1FAIpQLScaCEdLNC1S-KvbqY5rWRJavT4ZGpTc4A2k0dRLT8CPIEiECQ/viewform)
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
