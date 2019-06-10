@@ -29,12 +29,11 @@ will be provided to you via the below links before you conduct the
 study.
 
 If your birth date is an even number (i.e. June 18th), please click on
-this link: https://forms.gle/81qZe8TWiWLSxEf47
+this link: [https://forms.gle/81qZe8TWiWLSxEf47](https://forms.gle/81qZe8TWiWLSxEf47)
 
 If your birth date is odd number (i.e. June 7th), please click on this
-link: https://forms.gle/LT8ToWCZouHxVw2TA
+link: [https://forms.gle/LT8ToWCZouHxVw2TA](https://forms.gle/LT8ToWCZouHxVw2TA)
 
 Sincerely,
 
 Tobias Mankis  
-[Online Science Video Study](https://docs.google.com/forms/d/e/1FAIpQLScaCEdLNC1S-KvbqY5rWRJavT4ZGpTc4A2k0dRLT8CPIEiECQ/viewform)
