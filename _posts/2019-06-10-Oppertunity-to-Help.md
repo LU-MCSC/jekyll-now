@@ -2,7 +2,6 @@
 published: true
 tag: 2019-2020
 ---
-## A New Post
 Hello, my name is Tobias Mankis. I am a graduate student at Laurentian
 University in the Science Communication program. I am conducting
 research on the comprehension of online science videos, and I am
