@@ -24,6 +24,4 @@ FA-370, Laurentian University
 
 #### > Treasurer - Kendra Rehel-Buchanan
 
-#### > Student Representative - Spencer Daviau
-
 #### > Systems Administrator - Patrick Trottier

@@ -1,6 +1,6 @@
 ---
 published: true
-tag: 2019-2020
+tag: archive, 2019-2020
 ---
 Hello, my name is Tobias Mankis. I am a graduate student at Laurentian
 University in the Science Communication program. I am conducting
@@ -36,4 +36,4 @@ link: [https://forms.gle/LT8ToWCZouHxVw2TA](https://forms.gle/LT8ToWCZouHxVw2TA)
 
 Sincerely,
 
-Tobias Mankis  
+Tobias Mankis
