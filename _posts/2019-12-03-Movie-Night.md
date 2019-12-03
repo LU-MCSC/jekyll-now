@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+tag: 2019-2020
 ---
 ## Movie Night
 Join us on Friday, December 6th for a night of Christmas movies. From 6:00 PM – 11:00 PM, the MCSC executive committee will be streaming Christmas movie in the SSR theater. Snacks and beverages are welcomed.
